@@ -12,7 +12,8 @@ public class HelloWorld
  
        
     string [] names = {"Kamala","Fateh","Duygu","Naila","Nicat"};
-       
+ 
+      var count = NamesLength(names);      
           Console.WriteLine(count);
        
    
