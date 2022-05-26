@@ -18,7 +18,7 @@ public class HelloWorld
    
  }
    
-    string int NamesLength (string[] names)
+    static int NamesLength (string[] names)
    
  
  {
@@ -38,7 +38,7 @@ public class HelloWorld
        
     }
        
-         return check;
+         return count;
    
  
   }
